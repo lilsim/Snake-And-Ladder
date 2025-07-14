@@ -16,4 +16,13 @@ This is a console-based implementation of the classic **Snake and Ladder** game 
 ---
 
 ## 📂 Project Structure
+model/
+├── Board.java
+├── Dice.java
+├── Game.java
+├── Ladder.java
+├── Main.java
+├── Player.java
+├── PlayingPiece.java
+└── Snake.java
 
